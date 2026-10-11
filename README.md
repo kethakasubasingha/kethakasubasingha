@@ -1,71 +1,166 @@
-# Hi, I'm Kethaka 👋
+ <div align="center">
+
+# 👋 Hey, I'm Kethaka
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Full-Stack+Developer+in+Progress;Exploring+AI+%26+Modern+Technologies;Turning+Ideas+Into+Digital+Solutions" alt="Animated introduction" />
 
 **Gairika Kethaka Ekanayaka Subasingha**
-Computer Science student · BSc (Hons) undergraduate · Sri Lanka 🇱🇰
 
-I'm a university student developing my skills in software development, databases, AI, web technologies and creative digital media. I enjoy learning new technologies and turning ideas into practical projects.
+Computer Science Undergraduate · BSc (Hons) · Sri Lanka 🇱🇰
 
----
+*Building the future, one line of code at a time.*
 
-## 🛠️ Skills
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://kethakasubasingha.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kethakasubasingha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kethaka-subasingha-142668367)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gairikakethaka@gmail.com)
 
-**Programming**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-5C6BC0?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:7C3AED,100:050816&height=3&section=header" width="100%" alt="Neon divider" />
 
-**Web**
-![HTML](https://img.shields.io/badge/HTML-E44D26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+</div>
 
-**Database**
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
-![Database Design](https://img.shields.io/badge/Database%20Design-444?style=flat-square)
+## `01` — About Me
 
-**Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Quartus](https://img.shields.io/badge/Quartus-444?style=flat-square)
-![Multisim](https://img.shields.io/badge/Multisim-444?style=flat-square)
+```yaml
+name: Kethaka Subasingha
+location: Sri Lanka
+education: BSc (Hons) Computer Science
+interests:
+  - Software Engineering
+  - Full-Stack Web Development
+  - Databases & System Design
+  - Artificial Intelligence
+  - Creative Digital Media
+current_focus: Building practical software projects
+mindset: Learn. Build. Improve. Repeat.
+```
 
-**Creative**
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Video Editing](https://img.shields.io/badge/Video%20Editing-444?style=flat-square)
-![Color Grading](https://img.shields.io/badge/Color%20Grading-444?style=flat-square)
+I'm a Computer Science undergraduate passionate about developing useful software, exploring emerging technologies, and transforming ideas into practical digital experiences.
 
----
+I enjoy working across the software development lifecycle — from designing user interfaces and structuring databases to building application logic and refining the final experience.
 
-## 🚀 Projects
+- 💻 Learning by building real-world projects.
+- 🌐 Exploring modern web technologies and full-stack development.
+- 🧠 Expanding my knowledge of AI and software engineering.
+- 🎨 Combining technology with video editing, photography, and graphic design.
 
-**Udawatta Stores**: a full-stack online grocery store I developed. Customers can sign in, browse products, add items to a cart and follow their orders.
+## `02` — Tech Stack
 
-More projects coming soon.
+<div align="center">
 
----
+### Programming Languages
 
-## 🎬 Beyond code
+<img src="https://skillicons.dev/icons?i=python,c,java,js&theme=dark" alt="Python, C, Java and JavaScript" />
 
-I also enjoy video editing, photography and graphic design, from colour grading and edits to posters and social-media designs.
+### Frontend Development
 
----
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="HTML, CSS and React" />
 
-## 🌐 Portfolio
+### Backend & Databases
 
-👉 **https://kethakasubasingha.github.io**
+<img src="https://skillicons.dev/icons?i=spring,mysql&theme=dark" alt="Spring Boot and MySQL" />
 
----
+### Tools & Development Environment
 
-## 📫 Get in touch
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" alt="Git, GitHub, VS Code and IntelliJ IDEA" />
 
-- 📧 Email: [gairikakethaka@gmail.com](mailto:gairikakethaka@gmail.com)
-- 💼 LinkedIn: [Kethaka Subasingha](https://www.linkedin.com/in/kethaka-subasingha-142668367)
-- 🐙 GitHub: [@kethakasubasingha](https://github.com/kethakasubasingha)
-- 📱 Phone: +94 763421351
+### Creative Tools
 
-*Let's build something together.*
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" />
+<img src="https://img.shields.io/badge/Premiere%20Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+
+</div>
+
+<details>
+<summary><b>More technologies and tools</b></summary>
+
+- **Database:** SQL, MySQL, relational database design
+- **Hardware & Simulation:** Quartus, Multisim
+- **Creative skills:** Video editing, colour grading, photography, graphic design
+
+</details>
+
+## `03` — Featured Project
+
+<div align="center">
+
+<a href="https://github.com/kethakasubasingha">
+<img src="https://img.shields.io/badge/PROJECT_01-UDawatta_Stores-00F7FF?style=for-the-badge&labelColor=0B1020" alt="Udawatta Stores project" />
+</a>
+
+### 🛒 Udawatta Stores
+
+**A Full-Stack Online Grocery Shopping Platform**
+
+An online grocery store project designed to provide a convenient shopping experience, with customer authentication, product browsing, cart management, and order tracking.
+
+| Component | Technology |
+|:--|:--|
+| Frontend | React |
+| Backend | Java · Spring Boot |
+| Database | MySQL |
+| Development | IntelliJ IDEA · Git · GitHub |
+
+**Key functionality**
+
+- 🔐 Customer authentication
+- 🛍️ Product catalogue
+- 🛒 Shopping cart and checkout
+- 📦 Order management and tracking
+- ⚙️ Database-connected application architecture
+
+</div>
+
+> **More projects coming soon.** Follow my GitHub profile to see what I'm building next.
+
+## `04` — GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/kethakasubasingha">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kethakasubasingha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F7FF&icon_color=7C3AED&text_color=E6EDF3" alt="GitHub statistics" />
+</a>
+
+<a href="https://github.com/kethakasubasingha">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethakasubasingha&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F7FF&text_color=E6EDF3" alt="Most-used programming languages" />
+</a>
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=kethakasubasingha&theme=tokyonight&hide_border=true&background=050816&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF" alt="GitHub contribution streak" width="70%" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kethakasubasingha&bg_color=050816&color=00F7FF&line=7C3AED&point=00F7FF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+
+</div>
+
+## `05` — Beyond the Code
+
+<div align="center">
+
+| 🎬 Video Editing | 📸 Photography | 🎨 Graphic Design |
+|:--:|:--:|:--:|
+| Visual storytelling | Capturing moments | Creative digital design |
+| Transitions & colour grading | Exploring perspectives | Posters & social media |
+
+</div>
+
+I believe creativity and technology work best together. Outside software development, I enjoy creating visual content, experimenting with designs, and developing new creative skills.
+
+## `06` — Let's Connect
+
+<div align="center">
+
+I'm always interested in learning, collaborating on meaningful projects, and connecting with fellow developers.
+
+<a href="https://kethakasubasingha.github.io">Portfolio</a> · <a href="https://github.com/kethakasubasingha">GitHub</a> · <a href="https://www.linkedin.com/in/kethaka-subasingha-142668367">LinkedIn</a> · <a href="mailto:gairikakethaka@gmail.com">Email</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:312E81,100:00F7FF&height=120&section=footer" width="100%" alt="Futuristic gradient footer" />
+
+**`while (learning) { build(); improve(); repeat(); }`**
+
+<sub>Designed with curiosity. Built with code. 🚀</sub>
+
+</div>
